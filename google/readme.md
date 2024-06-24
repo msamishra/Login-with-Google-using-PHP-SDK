@@ -7,7 +7,7 @@ Create account [Developer login](https://console.cloud.google.com/apis/dashboard
 Composer installation if needed : composer require google/apiclient:"^2.0"
 
 1. On this code Composer already installed.
-2. First to create a app [developer login](https://developers.facebook.com/).
+2. First to create a app [developer login](https://developers.facebook.com/](https://console.cloud.google.com/apis/dashboard?project=diesel-skyline-427210-m7).
 3. Then pick there clientID, clientSecret key and redirectUrL.
 4. change all redriections URL according to your server.
 
